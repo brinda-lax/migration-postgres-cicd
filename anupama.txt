@@ -1,1 +1,2 @@
 modify a.txt
+modify b text
