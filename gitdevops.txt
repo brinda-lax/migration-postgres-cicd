@@ -1,0 +1,61 @@
+git commands
+pwd
+git status
+git log --oneline
+git add .
+echo "<text>" >>file.format
+git remote add origin<url>
+git remote -v
+git add .
+git  commit -m "message"
+git checkout branchname
+git switch branchname
+
+git checkout -- <file>
+
+git restore <file>
+
+git diff --to check the conflicts of remote and local
+
+git diff repo..localrepo
+$ git fetch origin
+ git diff origin/main..Mundane
+
+create new branch
+git branch <branchname>
+
+Cloning is used to copy a remote repository to your local machine.
+git log --oneline
+single line commands
+
+git clone repo(to be cloned) destination repo
+git 
+ls -lrt
+to switch/merge to branch u want to work
+git merge <branch name>
+
+
+
+project git 
+pwd
+cd C:/Users/Public/postgres-deploy1
+touch infinite.html
+
+echo "ur context" >>index.html
+git branch 
+git switch Mundane
+git switch -u origin Mundane
+
+git push -u origin Mundane
+git add index.html
+git commit -m "commited index.html"
+git merge Mundane --allow-unrelated-histories
+
+then vi editor asks msgs
+and esc,:wq
+
+git push origin master
+git clone <url of repo>
+
+
+
